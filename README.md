@@ -1,6 +1,3 @@
-# MoodBuddy-AI-Journal
-A cute, friendly local AI journal and mood companion built with Streamlit and Ollama.
-
 # 🧸 MoodBuddy: Your Local AI Journal Companion
 
 MoodBuddy is a wholesome, private digital diary that reads your daily thoughts, analyzes your emotional vibe, and responds with a validating, supportive message. 
